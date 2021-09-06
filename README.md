@@ -30,7 +30,6 @@ NOC - Network Operations Center
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 --------------------------------------------------------------------------
