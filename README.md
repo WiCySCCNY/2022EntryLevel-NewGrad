@@ -6,6 +6,17 @@ Use this repo to share and keep track of Cybersecurity related entry level posit
 ⚠️ This repository is only for entry level positions in the United States or for Remote positions 🌎.
 
 🤗 Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or filling out this [form](https://forms.gle/SCt2YcxzpPvEWoEU7)! 🤗
+
+*Acronyms
+
+SWE - Software Engineering
+
+SOC - Security Operations Center
+
+NOC - Network Operations Center 
+
+
+
 📝 THE LIST 📝
 
 |     Name      |   Location    |    Notes      |
