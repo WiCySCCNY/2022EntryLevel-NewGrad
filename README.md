@@ -14,8 +14,7 @@ SWE - Software Engineering
 SOC - Security Operations Center
 
 NOC - Network Operations Center 
-
-
+-------------------------------------------------------------------------
 
 📝 THE LIST 📝
 
