@@ -25,11 +25,7 @@ NOC - Network Operations Center
 | [Northrop Grumman]()  | Helena, MT (Remote is possible)  |Associate Software Development Analyst-Be able to obtain and maintain a U.S. Government security clearance (U.S. citizenship is a prerequisite)|
 | [Indeed](https://www.indeed.com/viewjob?jk=1109bb2ee65ac49d&tk=1fev9fspisabt802)  | Texas-Remote  | Associate Application Security Engineer |
 | [Indeed](https://www.indeed.com/viewjob?jk=7bee612740042bcd&tk=1fev9fspisabt802)  | Remote  | Associate Product Manager, Enterprise Marketplace | 
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 <!--- 
 | Content Cell  | Content Cell  |
