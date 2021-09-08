@@ -31,7 +31,7 @@ NOC - Network Operations Center
 |[Fire Eye](https://www.linkedin.com/jobs/view/associate-incident-response-consultant-entry-level-2022-at-fireeye-inc-2698127292/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Alexandria, VA | Associate Incident Response Consultant. Apply via Linkedin | 
 |[Cybersecurity and Infrastructure Security Agency](https://www.usajobs.gov/GetJob/ViewDetails/611176700)| Arlington, VA | Privacy Analyst. Must be able to obtain and maintain a U.S. Government security clearance (U.S. citizenship is a requirement.)|
 |[American Express](https://aexp.eightfold.ai/careers?pid=8750864&query=Information%20Security&domain=aexp.com&triggerGoButton=false)| Various Cities | Information Security Analyst III |
-|[American Express](https://aexp.eightfold.ai/careers?pid=7251418&query=Information%20Security&domain=aexp.com&triggerGoButton=false)| Various Cities | Information Security | 
+|[American Express](https://aexp.eightfold.ai/careers?pid=7251418&query=Information%20Security&domain=aexp.com&triggerGoButton=false)| Various Cities | Information Security Analyst | 
 |[]()|
 
 
