@@ -15,6 +15,8 @@ SOC - Security Operations Center
 
 NOC - Network Operations Center 
 
+This repo idea was replicated from [PittCSC](https://github.com/pittcsc) with a Cybersecurity twist on it. 
+
 -------------------------------------------------------------------------
 
 📝 THE LIST 📝
