@@ -35,7 +35,7 @@ This repo idea was replicated from [PittCSC](https://github.com/pittcsc) with a 
 |[American Express](https://aexp.eightfold.ai/careers?pid=8750864&query=Information%20Security&domain=aexp.com&triggerGoButton=false)| Various Cities | Information Security Analyst III |
 |[American Express](https://aexp.eightfold.ai/careers?pid=7251418&query=Information%20Security&domain=aexp.com&triggerGoButton=false)| Various Cities | Information Security Analyst | 
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/)| Various Cities | various roles, such as Security Consultant and Application Consultant |
-|[]()|
+|[Foreign Affairs Information Technology Fellowship](https://www.faitfellowship.org/fellowship/)| Washington, D.C. | Various Roles |
 |[]()|
 |[]()|
 |[]()|
