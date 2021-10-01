@@ -40,7 +40,6 @@ This repo idea was replicated from [PittCSC](https://github.com/pittcsc) with a 
 |[]()|
 |[]()|
 |[]()|
-|[]()|
 
 
 
